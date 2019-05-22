@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Taskie</string>
+    <string name="newTaskHeadingText">New task:</string>
+    <string name="newTaskTitleInputHint">Enter task title</string>
+    <string name="newTaskDescriptionInputHint">Enter task description</string>
+    <string name="lowPriority">Low</string>
+    <string name="mediumPriority">Medium</string>
+    <string name="highPriority">High</string>
+    <string name="saveTaskActionText">Save</string>
+    <string name="emptyFields">Check your inputs</string>
+    <string name="noTaskFound">No such task found</string>
+    <string name="no_data">No data! :(</string>
+    <string name="title_Home">Home</string>
+    <string name="title_about">About</string>
+    <string name="authorHeadingText">Application made by</string>
+    <string name="authorDescriptionText">OSC Android Academy Team:\n\nBruno Zorić, FERIT \nGoran Luketić, COBE \nDavor Lukić, student</string>
+    <string name="applicationHeadingText">About Taskie</string>
+    <string name="applicationDescriptionText">Simple application for managing daily tasks. \n\nKeep track of your tasks how you like! \n\nYou can give your task a name, description and priority.</string>
+    <string name="actionEditText">Edit</string>
+    <string name="edit_title_text">Edit Title</string>
+    <string name="editPriorityHeadingText">Edit priority</string>
+    <string name="editTaskTitleHeadingText">Edit title</string>
+    <string name="editTaskDescriptionHeadingText">Edit description</string>
+    <string name="alertPositiveButtonText">yes</string>
+    <string name="alertNegativeButtonText">no</string>
+    <string name="alertDeleteTaskTitleText">Delete Task?</string>
+    <string name="sort_by_priority">Sort by priority</string>
+    <string name="delete_all_tasks">Delete all tasks</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="alertDialogTitleText">Delete all tasks?</string>
+</resources>
